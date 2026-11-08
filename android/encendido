@@ -1,0 +1,10 @@
+cd E:\proyectos\mi_agenda_inteligente
+
+"C:\Users\USUARIO\AppData\Local\Android\Sdk\platform-tools\adb.exe" devices
+
+"E:\src\flutter\bin\flutter.bat" devices
+
+"E:\src\flutter\bin\flutter.bat" run -d CPH2781
+
+
+"E:\src\flutter\bin\flutter.bat" analyze
